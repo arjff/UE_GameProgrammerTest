@@ -1,0 +1,98 @@
+[
+	{
+		"file": "D:\\arjff\\GameProgrammerTest\\Source\\GameProgrammerTest\\BlastPack.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\arjff\\GameProgrammerTest\\.vscode\\compileCommands_Default\\GameProgrammerTest.255.rsp"
+		],
+		"directory": "D:\\program files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\arjff\\GameProgrammerTest\\Source\\GameProgrammerTest\\BlastPack.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\arjff\\GameProgrammerTest\\.vscode\\compileCommands_Default\\GameProgrammerTest.255.rsp"
+		],
+		"directory": "D:\\program files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\arjff\\GameProgrammerTest\\Source\\GameProgrammerTest\\Door.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\arjff\\GameProgrammerTest\\.vscode\\compileCommands_Default\\GameProgrammerTest.255.rsp"
+		],
+		"directory": "D:\\program files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\arjff\\GameProgrammerTest\\Source\\GameProgrammerTest\\Door.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\arjff\\GameProgrammerTest\\.vscode\\compileCommands_Default\\GameProgrammerTest.255.rsp"
+		],
+		"directory": "D:\\program files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\arjff\\GameProgrammerTest\\Source\\GameProgrammerTest\\GameProgrammerTest.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\arjff\\GameProgrammerTest\\.vscode\\compileCommands_Default\\GameProgrammerTest.255.rsp"
+		],
+		"directory": "D:\\program files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\arjff\\GameProgrammerTest\\Source\\GameProgrammerTest\\GameProgrammerTest.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\arjff\\GameProgrammerTest\\.vscode\\compileCommands_Default\\GameProgrammerTest.255.rsp"
+		],
+		"directory": "D:\\program files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\arjff\\GameProgrammerTest\\Source\\GameProgrammerTest\\GameProgrammerTest.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\arjff\\GameProgrammerTest\\.vscode\\compileCommands_Default\\GameProgrammerTest.255.rsp"
+		],
+		"directory": "D:\\program files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\arjff\\GameProgrammerTest\\Source\\GameProgrammerTest\\GameProgrammerTestCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\arjff\\GameProgrammerTest\\.vscode\\compileCommands_Default\\GameProgrammerTest.255.rsp"
+		],
+		"directory": "D:\\program files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\arjff\\GameProgrammerTest\\Source\\GameProgrammerTest\\GameProgrammerTestCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\arjff\\GameProgrammerTest\\.vscode\\compileCommands_Default\\GameProgrammerTest.255.rsp"
+		],
+		"directory": "D:\\program files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\arjff\\GameProgrammerTest\\Source\\GameProgrammerTest\\GameProgrammerTestDocumentation.md",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\arjff\\GameProgrammerTest\\.vscode\\compileCommands_Default\\GameProgrammerTest.255.rsp"
+		],
+		"directory": "D:\\program files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\arjff\\GameProgrammerTest\\Source\\GameProgrammerTest\\GameProgrammerTestGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\arjff\\GameProgrammerTest\\.vscode\\compileCommands_Default\\GameProgrammerTest.255.rsp"
+		],
+		"directory": "D:\\program files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\arjff\\GameProgrammerTest\\Source\\GameProgrammerTest\\GameProgrammerTestGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\arjff\\GameProgrammerTest\\.vscode\\compileCommands_Default\\GameProgrammerTest.255.rsp"
+		],
+		"directory": "D:\\program files\\Epic Games\\UE_5.1\\Engine\\Source"
+	}
+]
